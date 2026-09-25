@@ -213,4 +213,4 @@ Scrolls is available as a full free version for Windows, providing all features 
 Download Scrolls today and immerse yourself in the thrilling world of card battles!
 
 ---
-**Last updated:** 2026-09-25 13:25:38 UTC
+**Last updated:** 2026-09-25 18:20:46 UTC
